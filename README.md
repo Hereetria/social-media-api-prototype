@@ -33,7 +33,9 @@ The goal of this project is to explore **clean architecture**, proper layering, 
 > Example endpoints and structures (Swagger UI or Postman)
 
 <p align="center">
-  <img src="./public/screenshots/swagger.png" width="60%">
+  <img src="./docs/screenshots/fields.png" width="32%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="32%">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Transparent.gif" width="32%">
 </p>
 
 <br>
