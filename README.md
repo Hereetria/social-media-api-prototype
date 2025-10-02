@@ -29,8 +29,8 @@ The goal of this project is to explore **clean architecture**, proper layering, 
 
 
 ## 🖼️ Screenshots
-
-> Example endpoints and structures (Swagger UI or Postman)
+Shown below in order:  
+**1. Fields**
 
 <p align="center">
   <img src="./docs/screenshots/fields.png" width="32%">
